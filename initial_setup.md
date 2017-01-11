@@ -6,7 +6,7 @@ Follow the onscreen instructions to setup the application. FRC Krawler needs to 
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/2.png" alt="Drawing" width="200px"/>
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/3.png" alt="Drawing" width="200px"/>
 
-Once that is done, you can now swipe from the side of your screen and open up the navigation drawer. These elements can be accessed throughout the app.
+Once done, you can now swipe from the side of your screen and open up the navigation drawer. These elements can be accessed throughout the app.
 
 + **Scout** - Where the client devices record data
 + **Server** - Where the server device is managed. Turned on/off, etc.
@@ -19,13 +19,13 @@ Once that is done, you can now swipe from the side of your screen and open up th
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/3.png" alt="Drawing" width="200px"/>
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/4.png" alt="Drawing" width="200px"/>
 
-If you been around in first for a while, you know that we get a new challenge every year. Every year we consider it a "Game". You can have an infinite number of Games in your database, allowing teams to use FRC Krawler year after year without worrying about a thing. To add an game, open up the navigation drawer, tap on games, and tap on the *plus* button.
+If you been around in *FIRST* for a while, you know that we get a new challenge every year. Every year we consider it a "Game". You can have an infinite number of Games in your database. This allows teams to use FRC Krawler year after year without worrying about a thing. To add a game, open up the navigation drawer, tap on games, and tap on the *plus* button.
 
 # Adding Event
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/5.png" alt="Drawing" width="200px"/>
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/6.png" alt="Drawing" width="200px"/>
 
-Event data is provided by *The Blue Alliance*. FRC Krawler uses their data to make it easier for teams to start scouting. To import an event you scroll over to the *events* tab, click the *plus* button, select the year, event, and tap import
+Event data is provided by *The Blue Alliance*. FRC Krawler uses their data to make it easier for teams to start scouting. To import an event, you scroll over to the *events* tab, click the *plus* button, select the year, event, and tap import.
 
 # Adding Metrics
 
