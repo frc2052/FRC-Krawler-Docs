@@ -29,7 +29,7 @@ If you been around in *FIRST* for a while, you know that we get a new challenge 
 
 Metrics are questions that are asked to scouters, it should be data you want to collect to choose your best alliance. We provide some metrics for you, each season, these are metrics that we use when we use our app, but you can create your own metrics by tapping on the *plus* in the *metrics* tabs if our metrics don't suit your needs. 
 
-# Adding Event
+# Adding Events
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/5.png" alt="Drawing" width="200px"/>
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/6.png" alt="Drawing" width="200px"/>
 
