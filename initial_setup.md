@@ -21,12 +21,6 @@ Once done, you can now swipe from the side of your screen and open up the naviga
 
 If you been around in *FIRST* for a while, you know that we get a new challenge every year. Every year we consider it a "Game". You can have an infinite number of Games in your database. This allows teams to use FRC Krawler year after year without worrying about a thing. To add a game, open up the navigation drawer, tap on games, and tap on the *plus* button.
 
-# Adding Event
-<img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/5.png" alt="Drawing" width="200px"/>
-<img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/6.png" alt="Drawing" width="200px"/>
-
-Event data is provided by *The Blue Alliance*. FRC Krawler uses their data to make it easier for teams to start scouting. To import an event, you scroll over to the *events* tab, click the *plus* button, select the year, event, and tap import.
-
 # Adding Metrics
 
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/8.png" alt="Drawing" width="200px"/>
@@ -34,3 +28,16 @@ Event data is provided by *The Blue Alliance*. FRC Krawler uses their data to ma
 <img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/10.png" alt="Drawing" width="200px"/>
 
 Metrics are questions that are asked to scouters, it should be data you want to collect to choose your best alliance. We provide some metrics for you, each season, these are metrics that we use when we use our app, but you can create your own metrics by tapping on the *plus* in the *metrics* tabs if our metrics don't suit your needs. 
+
+# Adding Event
+<img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/5.png" alt="Drawing" width="200px"/>
+<img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/6.png" alt="Drawing" width="200px"/>
+
+Event data is provided by *The Blue Alliance*. FRC Krawler uses their data to make it easier for teams to start scouting. To import an event, you scroll over to the *events* tab, click the *plus* button, select the year, event, and tap import.
+
+# Getting Started Scouting
+
+<img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/13.png" alt="Drawing" width="200px"/>
+<img src="https://github.com/frc2052/FRC-Krawler-Docs/raw/master/img/easy_setup/14.png" alt="Drawing" width="200px"/>
+
+Once you have an event registered, you can now start your server. Choose your event from the dropdown list and then turn it on. From there, get your other device and set it up with bluetooth again. First, you must connect the devices by bluetooth in your system settings, not in the app. After you have done that, on the new device go to the 'Scout' section. Select 'Sync With Server' and select the device running the server. From there, choose your choosen either match or pit scout, and begin scouting on that device!
